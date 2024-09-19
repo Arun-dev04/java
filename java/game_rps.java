@@ -80,7 +80,7 @@ if(game_rps.computer_choice==game_rps.user_choice){
     System.out.println("User Wins");
  }
  else{
-    System.out.println("Computers Wns");
+    System.out.println("Computers Wins");
  }
 sc.close();
 }
